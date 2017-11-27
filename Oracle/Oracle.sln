@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oracle", "Oracle\Oracle.csproj", "{2DEC936F-4C69-413D-ABC1-FA5DDA825ADC}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{9E9E72EC-19F2-466B-AB94-2448B38E1C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oracle2", "Oracle2\Oracle2.csproj", "{13E2BD0A-9B3C-4D80-8E2B-3CB70948B5E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2DEC936F-4C69-413D-ABC1-FA5DDA825ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2DEC936F-4C69-413D-ABC1-FA5DDA825ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2DEC936F-4C69-413D-ABC1-FA5DDA825ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2DEC936F-4C69-413D-ABC1-FA5DDA825ADC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9E9E72EC-19F2-466B-AB94-2448B38E1C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9E9E72EC-19F2-466B-AB94-2448B38E1C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E9E72EC-19F2-466B-AB94-2448B38E1C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E9E72EC-19F2-466B-AB94-2448B38E1C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E2BD0A-9B3C-4D80-8E2B-3CB70948B5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E2BD0A-9B3C-4D80-8E2B-3CB70948B5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E2BD0A-9B3C-4D80-8E2B-3CB70948B5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E2BD0A-9B3C-4D80-8E2B-3CB70948B5E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
